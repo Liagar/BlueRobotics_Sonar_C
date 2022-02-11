@@ -1,0 +1,18 @@
+Mensaje para pedir la distancia distance_simple
+42 52 02 00 06 00 00 01 BB 048 5C 01
+Respuesta
+42 52 05 00 - BB 04 01 00 CF 1F 00 00 64 AB 02   
+
+
+Mensaje para pedir el firmware
+42 52 02 00 06 00 00 00 05 00 A1 00
+Respuesta
+42 52 04 00 05 - 00 01 00 01 00 00 00 9F 00         
+
+
+Mensaje para pedir speed of sound
+42 52 02 00 06 00 00 01  B3 04 54 01
+Respuesta
+42 52 04 00 B3 04 01 00 60 E3 16 00 - A9 02        
+
+
